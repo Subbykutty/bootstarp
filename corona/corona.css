@@ -1,0 +1,72 @@
+.bg-container{
+
+    background-color: white;
+    height: 100vh;
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.medic{
+
+    float: right;
+   
+}
+
+.btn{
+
+    background-color: blue;
+    color: white;
+}
+
+.box{
+    background-color: #cae3e1;
+    margin-top: 40px;
+padding: 15px;
+border-radius: 15px;
+}
+
+.img{
+
+    margin-top: 20px;
+}
+
+.gap{
+    margin-right: 40px;
+    background-color: green;
+    border-radius: 5px;
+}
+.gap2{
+    margin-right: 40px;
+    background-color: rgb(236, 108, 219);
+    border-radius: 5px;
+}
+
+.gap3{
+    margin-right: 40px;
+    background-color: rgb(153, 92, 233);
+    border-radius: 5px;
+}
+
+
+.click{
+        background-color: #e3c0b3;
+       padding: 15px;
+       border-radius: 10px;
+     
+}
+
+.logo{
+
+    height: 50px;
+    width: 50px;
+}
+
+.yt{
+    background-color: blue;
+    color: white;
+    margin-right: 290px;
+    border-radius:5px;
+
+}

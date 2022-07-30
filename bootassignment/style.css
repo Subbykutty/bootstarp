@@ -1,0 +1,33 @@
+
+.img{
+    background-image:50%;
+    padding:auto;
+    height: 70vh;
+    width: 70vw;
+    margin-left:150px;
+}
+
+.siva 
+{background-color: aqua;
+    margin-bottom: 100px;
+}
+.container
+{
+    background-image:url(/home/kgisl/Desktop/bootassignment/1-500x500.jpg);
+    height:50vh;
+    width:80vw;
+
+}
+.card
+{
+    margin:15px;
+    background-color: pink;
+    padding:8vh;
+}
+.cimg
+{
+    height:17vh;
+    width:10vw; 
+    margin-left: 170vh;
+
+}

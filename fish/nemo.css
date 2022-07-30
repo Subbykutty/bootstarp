@@ -1,0 +1,38 @@
+.bg-container{
+
+    background-image: url("orange-color-bg.png");
+    height: 700px;
+    width: 500px;
+    margin: 20px;
+}
+
+.box{
+height: 770px;
+width: 400px;
+margin: 50px;
+margin-bottom: 100px;
+}
+.text{
+    color: white;
+}
+
+.btn{
+    background-color: white;
+    color: orange;
+
+    height: 50px;
+    border-radius: 4px;
+    float: right;
+}
+.arr{
+    margin-right: 50px;
+}
+
+
+
+
+
+
+
+
+

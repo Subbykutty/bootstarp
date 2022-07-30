@@ -1,0 +1,17 @@
+tbody tr:nth-child(odd){
+
+    background-color: aqua;
+}
+
+tbody tr:nth-child(even){
+
+    background-color: brown;
+} 
+
+.table{
+    width:400px;
+    height:400px;
+    padding: 100px;
+    border-collapse: collapse;
+    text-align: center;
+}

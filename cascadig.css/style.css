@@ -1,0 +1,32 @@
+
+body{
+font-size: medium;
+font-family:Arial, Helvetica, sans-serif;
+}
+ul{padding: 10px;
+    background-color: #5cbf5d;
+}
+ul li{
+display:inline-block;
+}
+ul li a {
+    display: inline-block;
+    padding: 10px;
+}
+ul li a:hover{
+    background-color: orangered;
+}
+
+
+#box.
+
+.img{
+    background-image: url(veg.jpg);
+background-size: cover;
+}
+
+
+#you{color: black;}
+.man{
+    color: red;
+}
